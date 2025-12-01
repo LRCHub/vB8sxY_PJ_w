@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "【GUMI】酔いどれ知らず【Kanaria】",
+  "base_artist": "Kanaria",
+  "createdAt": "2025-12-01T08:26:49.031771Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "酔いどれ知らず",
+      "artist": "Kanaria",
+      "has_synced": false,
+      "path": "select/pl_01_酔いどれ知らず_Kanaria.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "酔いどれ知らず",
+      "artist": "Kanaria",
+      "has_synced": false,
+      "path": "select/pl_02_酔いどれ知らず_Kanaria.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "酔いどれ知らず",
+      "artist": "Kanaria",
+      "has_synced": false,
+      "path": "select/pl_03_酔いどれ知らず_Kanaria.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "酔いどれ知らず",
+      "artist": "Kanaria",
+      "has_synced": false,
+      "path": "select/pl_04_酔いどれ知らず_Kanaria.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "酔いどれ知らず - ver.luz/Cover",
+      "artist": "Kanaria",
+      "has_synced": false,
+      "path": "select/pl_05_酔いどれ知らず_-_ver.luz_Cover_Kanaria.txt"
+    }
+  ]
+}
