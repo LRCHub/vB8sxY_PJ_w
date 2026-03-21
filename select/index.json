@@ -1,9 +1,105 @@
 {
   "version": 1,
-  "base_track": "【GUMI】酔いどれ知らず【Kanaria】",
+  "base_track": "酔いどれ知らず",
   "base_artist": "Kanaria",
-  "createdAt": "2025-12-01T08:26:49.031771Z",
+  "createdAt": "2026-03-21T17:13:04.305239Z",
   "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "酔いどれ知らず",
+      "artist": "Kanaria",
+      "has_synced": true,
+      "path": "select/01_酔いどれ知らず_Kanaria.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "酔いどれ知らず",
+      "artist": "Kanaria",
+      "has_synced": true,
+      "path": "select/02_酔いどれ知らず_Kanaria.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "酔いどれ知らず",
+      "artist": "R+...",
+      "has_synced": true,
+      "path": "select/03_酔いどれ知らず_R+....lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "酔いどれ知らず",
+      "artist": "ずま",
+      "has_synced": false,
+      "path": "select/04_酔いどれ知らず_ずま.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "酔いどれ知らず",
+      "artist": "Sugi Aoki",
+      "has_synced": true,
+      "path": "select/05_酔いどれ知らず_Sugi_Aoki.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "酔いどれ知らず",
+      "artist": "Zuma",
+      "has_synced": true,
+      "path": "select/06_酔いどれ知らず_Zuma.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "酔いどれ知らず",
+      "artist": "Kanaria",
+      "has_synced": true,
+      "path": "select/07_酔いどれ知らず_Kanaria.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "酔いどれ知らず",
+      "artist": "Vivid BAD SQUAD",
+      "has_synced": true,
+      "path": "select/08_酔いどれ知らず_Vivid_BAD_SQUAD.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "酔いどれ知らず (feat. 小豆沢こはね&白石杏&東雲彰人&青柳冬弥&MEIKO)",
+      "artist": "Vivid BAD SQUAD",
+      "has_synced": true,
+      "path": "select/09_酔いどれ知らず_(feat._小豆沢こはね&白石杏&東雲彰人&青柳冬弥&MEIKO)_Vivid_BAD_SQUAD.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "酔いどれ知らず",
+      "artist": "Vivid BAD SQUAD (秋奈, 鷲見友美ジェナ, 今井文也, 伊東健人) Feat. MEIKO",
+      "has_synced": true,
+      "path": "select/10_酔いどれ知らず_Vivid_BAD_SQUAD_(秋奈,_鷲見友美ジェナ,_今井文也,_伊東健人)_Feat._MEIKO.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "酔いどれ知らず",
+      "artist": "Vivid BAD SQUAD (秋奈, 鷲見友美ジェナ, 今井文也, 伊東健人)",
+      "has_synced": true,
+      "path": "select/11_酔いどれ知らず_Vivid_BAD_SQUAD_(秋奈,_鷲見友美ジェナ,_今井文也,_伊東健人).lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "취한 줄을 모르고(酔いどれ知らず)",
+      "artist": "카라스모리 진",
+      "has_synced": false,
+      "path": "select/12_취한_줄을_모르고(酔いどれ知らず)_카라스모리_진.txt"
+    },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
@@ -13,36 +109,13 @@
       "path": "select/pl_01_酔いどれ知らず_Kanaria.txt"
     },
     {
-      "id": "petitlyrics_2",
-      "source": "petitlyrics",
+      "id": "localdb_1",
+      "source": "localdb",
       "title": "酔いどれ知らず",
       "artist": "Kanaria",
       "has_synced": false,
-      "path": "select/pl_02_酔いどれ知らず_Kanaria.txt"
-    },
-    {
-      "id": "petitlyrics_3",
-      "source": "petitlyrics",
-      "title": "酔いどれ知らず",
-      "artist": "Kanaria",
-      "has_synced": false,
-      "path": "select/pl_03_酔いどれ知らず_Kanaria.txt"
-    },
-    {
-      "id": "petitlyrics_4",
-      "source": "petitlyrics",
-      "title": "酔いどれ知らず",
-      "artist": "Kanaria",
-      "has_synced": false,
-      "path": "select/pl_04_酔いどれ知らず_Kanaria.txt"
-    },
-    {
-      "id": "petitlyrics_5",
-      "source": "petitlyrics",
-      "title": "酔いどれ知らず - ver.luz/Cover",
-      "artist": "Kanaria",
-      "has_synced": false,
-      "path": "select/pl_05_酔いどれ知らず_-_ver.luz_Cover_Kanaria.txt"
+      "path": "select/localdb_01_酔いどれ知らず_Kanaria.txt",
+      "repo_name": "vB8sxY_PJ_w"
     }
   ]
 }
